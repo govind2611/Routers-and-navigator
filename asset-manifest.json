@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Routers-and-navigator/static/css/main.b7b6202f.css",
+    "main.js": "/Routers-and-navigator/static/js/main.4b20bcbb.js",
+    "index.html": "/Routers-and-navigator/index.html",
+    "main.b7b6202f.css.map": "/Routers-and-navigator/static/css/main.b7b6202f.css.map",
+    "main.4b20bcbb.js.map": "/Routers-and-navigator/static/js/main.4b20bcbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7b6202f.css",
+    "static/js/main.4b20bcbb.js"
+  ]
+}
